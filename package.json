@@ -1,8 +1,10 @@
-{
+
+  {
   "name": "tech-blog",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+
   "dependencies": {
     "abbrev": "^1.1.1",
     "accepts": "^1.3.8",
@@ -264,20 +266,22 @@
     "wrappy": "^1.0.2",
     "yallist": "^4.0.0"
   },
+
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "seed": "node seeds/index.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ottercreektourism/Tech-Blog.git"
+    "url": "git+https://github.com/gisewaltzer/Tech-Blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ottercreektourism/Tech-Blog/issues"
+    "url": "https://github.com/gisewaltzer/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/ottercreektourism/Tech-Blog#readme"
+  "homepage": "https://github.com/gisewaltzer/Tech-Blog#readme"
 }
+
