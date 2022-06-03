@@ -1,5 +1,5 @@
 # Dependency directories
-node-modules
+node_modules
 jspm_packages/
 
 # Logs
