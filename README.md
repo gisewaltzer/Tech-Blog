@@ -60,7 +60,7 @@
   
   ## Additional Information
   heroku deployment: type 'heroku open' on the Terminal. It will open the Note Taker App.
-  URL from heroku: https://git.heroku.com/aqueous-refuge-17540.git
+  URL from heroku: https://aqueous-refuge-17540.herokuapp.com/
   
   ## License
 
