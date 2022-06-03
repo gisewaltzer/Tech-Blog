@@ -44,7 +44,7 @@
   
   ## Installation
   
-  To install necessary dependencies, type the following command into the terminal:
+   In order to install the necessary dependencies: input the following at the Terminal:
   
   > npm init -y
 
@@ -56,10 +56,10 @@
   
   ## Usage
 
-  Once the user has navigated to the homepage, they are given the option of logging in or signing up using their email address and password. Without signing up or logging in, the user is able to view blogpost history, but if they would like to add, delete or update posts or comments, they are prompted to log in or create an account. 
+  The user have the option of logging in OR signing up using their email address and password. If the user decide not to sign in, he is able to view the post history. If the user decide to add, delete or update posts or comments, he will be prompted to: create an account or log in. 
   
   ## Additional Information
-  heroku deployment: type 'heroku open' on the Terminal. It will open the Note Taker App.
+  heroku deployment:  input: heroku open at Terminal
   URL from heroku: https://aqueous-refuge-17540.herokuapp.com/
   
   ## License
@@ -68,13 +68,11 @@
 
  ## Contributing
 
-  Pull requests are welcome. For any major changes, please open an issue first to discuss what you’d like to change. Please make sure to update tests as appropriate.
+  All comments are Welcome.
 
  ## Tests
-
- To run, type into bash terminal:
  > npm start
 
  ## Questions
 
- If you have any questions, please visit https://github.com/gisewaltzer or email me at gisewaltzer@gmail.com
+ Please visit https://github.com/gisewaltzer or email me at gisewaltzer@gmail.com
